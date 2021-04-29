@@ -41,4 +41,8 @@ for (i=0; i < newInts.length; ++i) {
         break;
     }
   }
+  // Adds comma to seperate each input number
+  output += ",";
 }
+// Prints answer to console
+process.stdout.write(output.substring(0, output.length - 1));
