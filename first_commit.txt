@@ -1,0 +1,3 @@
+Hello! This is my text file for the CS lab. 
+
+-Josh Quatela
